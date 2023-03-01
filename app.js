@@ -82,14 +82,3 @@ app.listen(process.env.PORT || 3000, function() {
 
 
 
-
-// api key
-// 4eb8224f53b318547e89bd1adb4dd984-us13
-
-//dashboard
-// https://us13.admin.mailchimp.com/lists/members/#p:1-s:25-sa:last_update_time-so:false
-
-
-//audiance id (list id)
-//18ba1e07f9
-//https://us13.admin.mailchimp.com/lists/settings/defaults?id=1185653
